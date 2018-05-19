@@ -25,7 +25,7 @@ resume: true
 resume-external: false
 resume-url: files/cv.pdf
 
-url: https://jartigag.github.io
+url: https://joaquinmontesinos.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'https://piwik.jartigag.me/piwik/'
-analytics-piwik-id: '1'
+#analytics-piwik-url: 'https://piwik.jartigag.me/piwik/'
+#analytics-piwik-id: '1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
@@ -44,14 +44,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: jartigag
+twitter: joakm5
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: jartigag
+github: joaquinmontesinos
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -59,15 +59,15 @@ github: jartigag
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: jartigag@protonmail.com
+email: joamonmu@gmail.com
 
 authors:
     jartigag:
-        name: jartigag
+        name: joaquinmontesinos
         bio: -.-
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: jartigag
+        twitter: joakm5
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -34,7 +34,7 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # To enable piwik tracking, supply your url & site ID below
-#analytics-piwik-url: 'https://piwik.jartigag.me/piwik/'
+#analytics-piwik-url: 'https://piwik.joaquinmontesinos.me/piwik/'
 #analytics-piwik-id: '1'
 
 # if you don't want comments in your posts, leave categories empty
@@ -62,7 +62,7 @@ github: joaquinmontesinos
 email: joamonmu@gmail.com
 
 authors:
-    jartigag:
+    joaquinmontesinos:
         name: joaquinmontesinos
         bio: -.-
         external-image: false

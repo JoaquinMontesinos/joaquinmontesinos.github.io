@@ -1068,9 +1068,9 @@ pre {
   z-index: 99;
 }
 .header-home > .link > .selfie {
-  width: 125px;
+  width: 250px;
   margin-bottom: 25px;
-  border-radius: 100%;
+  border-radius: 25%;
   transition: all 0.2s;
   box-shadow: 0;
   opacity: 1;

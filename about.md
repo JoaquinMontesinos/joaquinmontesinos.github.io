@@ -3,12 +3,12 @@ title: About
 layout: page
 ---
  
-Enthusiastic about technology,  
-Always learning,
-I <font color=#FF0000><3</font> hackathons
+Enthusiastic about technology,<br>  
+Always learning,<br>
+I <p style="color:rgb(255,0,0);"><3</p> hackathons
 
 Interested in:  
-[#Tecnology](#) [#IOT](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#Blockchain](#) #Hackathons](#)
+[#Technology](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#IOT](#) [#Blockchain](#) [#Hackathons](#)
  
 <h2>Skills</h2>
 

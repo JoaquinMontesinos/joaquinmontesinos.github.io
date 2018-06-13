@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
  
-Enthusiastic about technology,<br>  
+Enthusiastic about technology,
 Always learning,<br>
 I <3 hackathons
 
@@ -42,4 +42,3 @@ Interested in:
 
 * [WIFIOUT](https://joaquinmontesinos.github.io/)
 * [LuzVerde](https://joaquinmontesinos.github.io/)
-* [Eventos Hastellón]((https://joaquinmontesinos.github.io/)

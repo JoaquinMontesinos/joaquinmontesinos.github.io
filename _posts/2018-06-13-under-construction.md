@@ -6,8 +6,8 @@ projects: true
 category: blog, project
 author: Joaquin Montesinos
 tag:
-- proyectos
-- underconstruction
+- Proyect
+- Under Construction
 ---
 
 This post is under construction

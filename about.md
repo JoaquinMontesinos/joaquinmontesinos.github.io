@@ -5,7 +5,7 @@ layout: page
  
 Enthusiastic about technology,<br>  
 Always learning,<br>
-I <p style="color:rgb(255,0,0);"><3</p> hackathons
+I <3 hackathons
 
 Interested in:  
 [#Technology](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#IOT](#) [#Blockchain](#) [#Hackathons](#)

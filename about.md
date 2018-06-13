@@ -2,35 +2,44 @@
 title: About
 layout: page
 ---
+ 
+Enthusiastic about technology,  
+Always learning,
+I <font color=#FF0000><3</font> hackathons
 
-enthusiastic about good-practice software development,  
-continuous multidisciplinary learning,  
-collaboration and simple but smart designs.
-
-also interested in:  
-[#freesoftware](#) [#infosec](#) [#osint](#) [#dataviz](#) [#music](#)
-
+Interested in:  
+[#Tecnology](#) [#IOT](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#Blockchain](#) #Hackathons](#)
+ 
 <h2>Skills</h2>
 
 **Languages**  
 
-:    Java, Python, PHP
+:    Java, Swift, Python, R, PHP, NodeJS
 
-**Tools**  
+**Database**  
 
-:    Git, AndroidStudio, Eclipse, Matlab
+:    MySQL, Microsoft Access
 
 **Web**  
 
-:    HTML, CSS, Javascript, Jekyll, Bootstrap
+:    HTML5, CSS, Javascript, JQuery, WordPress
+
+**Tools**  
+
+:    Git, Jira, Confluence, AndroidStudio, Xcode, Sublime Text, RStudio, Matlab, Markdown, LaTeX, Office, iWork 
+
+**Interpersonal Skills**  
+
+:    Teamwork, Networking, Project Management
+
 
 **Others**  
 
-:    GNU/Linux, RaspberryPi, Markdown, Pandoc, LaTeX,  
-Networking, Telecommunications, MySQL, Apache
+:    API usage and development, Json and XML formats, sensorization and home automation with Arduino and Raspberry, search engines and information retrieval
+
 
 <h2>Projects</h2>
 
-* [a simple network tool in python](https://jartigag.github.io/janitor-bot)
-* [some social media scripts](https://jartigag.github.io/cubiertos-para-twitter)
-* [an android app](https://github.com/jartigag/android-projects)
+* [WIFIOUT](https://joaquinmontesinos.github.io/)
+* [LuzVerde](https://joaquinmontesinos.github.io/)
+* [Eventos Hastellón]((https://joaquinmontesinos.github.io/)

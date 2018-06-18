@@ -14,7 +14,7 @@ Interested in:
 
 **Languages**  
 
-:    Java, Swift, Python, R, PHP, NodeJS
+:    R, PHP, Python, Java, Swift
 
 **Database**  
 
@@ -26,7 +26,7 @@ Interested in:
 
 **Tools**  
 
-:    Git, Jira, Confluence, AndroidStudio, Xcode, Sublime Text, RStudio, Matlab, Markdown, LaTeX, Office, iWork 
+:    Git, Jira, Confluence, AndroidStudio, Xcode, Sublime Text, RStudio,, Jupiter Matlab, Markdown, LaTeX, Office, iWork, Carto
 
 **Interpersonal Skills**  
 
@@ -40,5 +40,27 @@ Interested in:
 
 <h2>Projects</h2>
 
-* [WIFIOUT](https://joaquinmontesinos.github.io/)
-* [LuzVerde](https://joaquinmontesinos.github.io/)
+* [LuzVerde](https://joaquinmontesinos.github.io/under-construction/)
+* [WIFIOUT](https://joaquinmontesinos.github.io/under-construction/)
+
+* Hacks
+*    [HackForGood 2017](https://joaquinmontesinos.github.io/under-construction/)
+*    [Hackathon Castellón 2017](https://joaquinmontesinos.github.io/under-construction/)
+*    [HackTUM 2017](https://joaquinmontesinos.github.io/under-construction/)
+*    [FCBayenHackDay 2018](https://joaquinmontesinos.github.io/under-construction/)
+
+* Datathons
+*    [Cajamar2017](https://joaquinmontesinos.github.io/under-construction/)
+
+* Challenges
+*    [Connected Campus Idea Competition](https://joaquinmontesinos.github.io/under-construction/)
+*    [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/)
+*    [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
+
+* [Apps Android](https://joaquinmontesinos.github.io/under-construction/)
+* [Apps iOS](https://joaquinmontesinos.github.io/under-construction/)
+* [Web](https://joaquinmontesinos.github.io/under-construction/)
+* [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
+
+* [TFG](https://joaquinmontesinos.github.io/under-construction/)
+* [TFM](https://joaquinmontesinos.github.io/under-construction/)

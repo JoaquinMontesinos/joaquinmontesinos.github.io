@@ -8,7 +8,7 @@ Always learning,<br>
 I <3 hackathons
 
 Interested in:  
-[#Technology](#) [#Big Data](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#IOT](#) [#Blockchain](#) [#Hackathons](#)
+[#Technology](#) [#BigData](#) [#DataScience](#) [#Dataviz](#) [#Mobile](#) [#Web](#) [#IOT](#) [#Blockchain](#) [#Hackathons](#)
  
 <h2>Skills</h2>
 

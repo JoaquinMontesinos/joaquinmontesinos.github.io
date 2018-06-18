@@ -53,12 +53,11 @@ Interested in:
 
 :    [Connected Campus Idea Competition](https://joaquinmontesinos.github.io/under-construction/), [WIFIOUT](https://joaquinmontesinos.github.io/under-construction/), [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/), [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
 
-
-** Academic** 
+**Datathons**  
 
 : [Bachellor Thesis - TFG](https://joaquinmontesinos.github.io/under-construction/), [Master Thesis - TFM](https://joaquinmontesinos.github.io/under-construction/)
 
-** Other Projects** 
+**Other Projects** 
 
 : [Apps Android](https://joaquinmontesinos.github.io/under-construction/), [Apps iOS](https://joaquinmontesinos.github.io/under-construction/), [Web](https://joaquinmontesinos.github.io/under-construction/), [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
 

@@ -39,28 +39,35 @@ Interested in:
 
 
 <h2>Projects</h2>
+ 
+**Hacks**  
 
-* [LuzVerde](https://joaquinmontesinos.github.io/under-construction/)
-* [WIFIOUT](https://joaquinmontesinos.github.io/under-construction/)
+:    [HackForGood 2017](https://joaquinmontesinos.github.io/under-construction/)
+:        [LuzVerde](https://joaquinmontesinos.github.io/under-construction/)
+:    [Hackathon Castellón 2017](https://joaquinmontesinos.github.io/under-construction/)
+:    [HackTUM 2017](https://joaquinmontesinos.github.io/under-construction/)
+:    [FCBayenHackDay 2018](https://joaquinmontesinos.github.io/under-construction/)
 
-* Hacks
-*    [HackForGood 2017](https://joaquinmontesinos.github.io/under-construction/)
-*    [Hackathon Castellón 2017](https://joaquinmontesinos.github.io/under-construction/)
-*    [HackTUM 2017](https://joaquinmontesinos.github.io/under-construction/)
-*    [FCBayenHackDay 2018](https://joaquinmontesinos.github.io/under-construction/)
+**Datathons**  
 
-* Datathons
-*    [Cajamar2017](https://joaquinmontesinos.github.io/under-construction/)
+:    [Cajamar2017](https://joaquinmontesinos.github.io/under-construction/)
 
-* Challenges
-*    [Connected Campus Idea Competition](https://joaquinmontesinos.github.io/under-construction/)
-*    [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/)
-*    [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
+**Challenges** 
 
-* [Apps Android](https://joaquinmontesinos.github.io/under-construction/)
-* [Apps iOS](https://joaquinmontesinos.github.io/under-construction/)
-* [Web](https://joaquinmontesinos.github.io/under-construction/)
-* [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
+:    [Connected Campus Idea Competition](https://joaquinmontesinos.github.io/under-construction/)
+:        [WIFIOUT](https://joaquinmontesinos.github.io/under-construction/)
+:    [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/)
+:    [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
 
-* [TFG](https://joaquinmontesinos.github.io/under-construction/)
-* [TFM](https://joaquinmontesinos.github.io/under-construction/)
+** Academic** 
+
+: [Bachellor Thesis - TFG](https://joaquinmontesinos.github.io/under-construction/)
+: [Master Thesis - TFM](https://joaquinmontesinos.github.io/under-construction/)
+
+** Other Projects** 
+
+: [Apps Android](https://joaquinmontesinos.github.io/under-construction/)
+: [Apps iOS](https://joaquinmontesinos.github.io/under-construction/)
+: [Web](https://joaquinmontesinos.github.io/under-construction/)
+: [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
+

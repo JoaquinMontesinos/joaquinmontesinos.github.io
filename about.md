@@ -22,7 +22,7 @@ Interested in:
 
 **Web**  
 
-:    HTML5, CSS, Javascript, JQuery, WordPress
+:    HTML5, CSS, Javascript, JQuery, WordPress, Ajax
 
 **Tools**  
 

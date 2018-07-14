@@ -1,7 +1,7 @@
 ---
 title:  "Under construction"
 layout: post
-date:   2017-01-13
+date:   2000-01-01
 projects: true
 category: blog, project
 author: Joaquin Montesinos

@@ -14,9 +14,11 @@ tag:
 Android application for event management
 
 
-![Logo Luz Verde]({{site.baseurl}}/assets/images/posts/hastellon.png)
+![Haste]({{site.baseurl}}/assets/images/posts/hastellon.png)
 
-![Foto cruzando]({{site.baseurl}}/assets/images/posts/cruzandociego.png)
+![Caste]({{site.baseurl}}/assets/images/posts/castellon.png)
+
+![Caste2]({{site.baseurl}}/assets/images/posts/caste2.png)
 
 
 

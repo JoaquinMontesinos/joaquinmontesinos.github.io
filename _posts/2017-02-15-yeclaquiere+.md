@@ -20,7 +20,7 @@ Android app for the empowerment of citizenship and the improvement of the city.
 
 
 App
-[https://play.google.com/store/apps/details?id=com.alexissanchez.joaquinmontesinos.yeclaapp&hl=es](App)  
+[Play Store](https://play.google.com/store/apps/details?id=com.alexissanchez.joaquinmontesinos.yeclaapp&hl=es)  
 
 
 

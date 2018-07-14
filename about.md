@@ -55,7 +55,7 @@ Interested in:
 
 **Academic**  
 
-:    [Bachellor Thesis](https://joaquinmontesinos.github.io/under-construction/), [Master Thesis](https://joaquinmontesinos.github.io/under-construction/)
+:    [Bachellor Thesis](https://joaquinmontesinos.github.io/saluda2/), [Master Thesis](https://joaquinmontesinos.github.io/under-construction/)
 
 **Other Projects** 
 

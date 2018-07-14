@@ -1,7 +1,7 @@
 ---
 title:  "Yecla Quiere +"
 layout: post
-date:   2018-06-13
+date:   2017-02-15
 projects: true
 category: project
 author: Joaquin Montesinos
@@ -18,9 +18,7 @@ Android app for the empowerment of citizenship and the improvement of the city.
 
 
 
-
-App
-[Play Store](https://play.google.com/store/apps/details?id=com.alexissanchez.joaquinmontesinos.yeclaapp&hl=es)  
+[Play Store App](https://play.google.com/store/apps/details?id=com.alexissanchez.joaquinmontesinos.yeclaapp&hl=es)  
 
 
 

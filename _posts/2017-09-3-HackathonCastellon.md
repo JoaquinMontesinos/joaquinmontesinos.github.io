@@ -1,7 +1,7 @@
 ---
 title:  "Hackathon Castellón"
 layout: post
-date:   2018-06-13
+date:   2017-09-03
 projects: true
 category: project
 author: Joaquin Montesinos
@@ -24,4 +24,5 @@ Android application for event management
 
 
 
+[Hackathon's website](http://www.hackathoncastellon.com/)  
 

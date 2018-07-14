@@ -1,7 +1,7 @@
 ---
 title:  "iPrakticum"
 layout: post
-date:   2018-06-13
+date:   2018-02-15
 projects: true
 category: project
 author: Joaquin Montesinos
@@ -19,11 +19,10 @@ TUM informatic iPrakticum of iOS. Team NeuPro.
 
 
 
-Client Acceptance Video NeuPro Solutions iPraktikum WS1718 
-[https://www.youtube.com/watch?v=NbhCct5bfgQ](Client Acceptance) 
+ 
+[Client Acceptance Video NeuPro Solutions iPraktikum WS1718](https://www.youtube.com/watch?v=NbhCct5bfgQ) 
 
-Design Review Video NeuPro Solutions iPraktikum WS1718
-[https://www.youtube.com/watch?v=vsq6yD-_rzw](Design Review)  
+[Design Review Video NeuPro Solutions iPraktikum WS1718](https://www.youtube.com/watch?v=vsq6yD-_rzw)  
 
 
 

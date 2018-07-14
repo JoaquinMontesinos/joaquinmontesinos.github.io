@@ -59,5 +59,5 @@ Interested in:
 
 **Other Projects** 
 
-:    [Apps Android](https://joaquinmontesinos.github.io/under-construction/), [Apps iOS](https://joaquinmontesinos.github.io/under-construction/), [Web](https://joaquinmontesinos.github.io/under-construction/), [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
+:    [Apps Android](https://joaquinmontesinos.github.io/under-construction/), [Apps iOS](https://joaquinmontesinos.github.io/iPracticum/), [Web](https://joaquinmontesinos.github.io/under-construction/), [Telegram Bots](https://joaquinmontesinos.github.io/under-construction/)
 

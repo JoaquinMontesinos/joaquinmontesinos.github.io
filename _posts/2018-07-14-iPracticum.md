@@ -19,10 +19,11 @@ TUM informatic iPrakticum of iOS. Team NeuPro.
 
 
 
+Client Acceptance Video NeuPro Solutions iPraktikum WS1718 
+[https://www.youtube.com/watch?v=NbhCct5bfgQ](Client Acceptance) 
 
-
-Client Acceptance Video NeuPro Solutions iPraktikum WS1718 [https://www.youtube.com/watch?v=NbhCct5bfgQ](Client Acceptance)  
- Design Review Video NeuPro Solutions iPraktikum WS1718[https://www.youtube.com/watch?v=vsq6yD-_rzw](Design Review)  
+Design Review Video NeuPro Solutions iPraktikum WS1718
+[https://www.youtube.com/watch?v=vsq6yD-_rzw](Design Review)  
 
 
 

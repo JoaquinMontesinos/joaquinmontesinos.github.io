@@ -51,7 +51,7 @@ Interested in:
 
 **Challenges** 
 
-:    [Connected Campus Idea Competition 2017](https://joaquinmontesinos.github.io/under-construction/), [WIFIOUT](https://joaquinmontesinos.github.io/under-construction/), [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/), [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
+:    [Connected Campus Idea Competition 2017](https://joaquinmontesinos.github.io/WIFIOUT/), [WIFIOUT](https://joaquinmontesinos.github.io/WIFIOUT/), [Ideas UPV 2018](https://joaquinmontesinos.github.io/under-construction/), [Ecoembes 2018](https://joaquinmontesinos.github.io/under-construction/)
 
 **Academic**  
 

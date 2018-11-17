@@ -18,10 +18,6 @@ Android application for event management
 
 ![Caste]({{site.baseurl}}/assets/images/posts/castellon.png)
 
-![Caste1]({{site.baseurl}}/assets/images/posts/hack_caste.png)
-
-![Caste2]({{site.baseurl}}/assets/images/posts/hackathon castellon.png)
-
 ![Caste3]({{site.baseurl}}/assets/images/posts/caste2.png)
 
 

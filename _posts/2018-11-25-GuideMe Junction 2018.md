@@ -9,22 +9,21 @@ tag:
 - Project
 ---
 
-(Post Under Construction)
 
-The ultimate solution for improving elderly or disabled pedestrian mobility in a connected city
+**The ultimate solution for improving elderly or disabled pedestrian mobility in a connected city**
 
-
- 
 
 ![gui]({{site.baseurl}}/assets/images/posts/gui.png)
 
-General idea:
+## General idea
+
 GuideMe pretends to bring closer adavtanges of the modern world to people who are not fully adapted to new techonologies.
 
-Our product:
+## Our product
+
 We have developed an integral solution for the outdoor guidance of elderly or disabled people, offering a fully functional walking stick which provides clear and concise indications for guidance between points in the city, improving their quality of life.
 
-Future capabilities:
+## Future capabilities
 This GuideMe has room for improvement in many ways. It would be possible to link a public transport ticket to commute in the city or optimize the route to avoid slopes or rough sidewalks.
 
 Also, it would be possible to track the location of the stick in real time to make interventions easier in case of emergency (or even include an emergency button to call the emergency services if required).
@@ -35,7 +34,8 @@ The system could be implemented as well in public buildings such as hospitals, t
 
 Some extra features could be inductive charge and LED flashlight to improve visibility in dark areas.
 
-Development of the proof of concept prototype
+## Development of the proof of concept prototype
+
 We have develope a proof of concept prototype in order to test and demostrate the technology. The proof of concept walking stick mainly consist on an smart handle with some electronics as a LED matrix with a digital compass (MicroBit) and a WiFi node to transmit all the information between the GuideMe smart stick and the web app server and GUI.
 
 ![diagram]({{site.baseurl}}/assets/images/posts/diagram.png)

@@ -9,7 +9,6 @@ tag:
 - Project
 ---
 
-(Post Under Construction)
 
 Android app for the empowerment of citizenship and the improvement of the city.
  

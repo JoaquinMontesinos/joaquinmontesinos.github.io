@@ -9,8 +9,6 @@ tag:
 - Project
 ---
 
-(Post Under Construction)
-
 TUM informatic iPrakticum of iOS. Team NeuPro.
 
  

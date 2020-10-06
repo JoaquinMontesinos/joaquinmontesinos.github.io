@@ -9,7 +9,6 @@ tag:
 - Project
 ---
 
-(Post Under Construction)
 
 Android application for event management
 

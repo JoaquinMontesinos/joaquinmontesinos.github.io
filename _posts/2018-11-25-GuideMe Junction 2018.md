@@ -55,14 +55,13 @@ The web application is updated on every movement the elder person does and is ab
 
 
 
-Winning Team of Track Future Cities
-Fourth general position
+> Winning Team of Track Future Cities
+> Fourth general position
 
 GuideME is the ultimate solution for improving elderly or disabled pedestrian mobility in a connected city.
 
-http://www.upv.es/noticias-upv/noticia-10627-junction-2018-es.html
+[http://www.upv.es/noticias-upv/noticia-10627-junction-2018-es.html](http://www.upv.es/noticias-upv/noticia-10627-junction-2018-es.html)  
 
- 
  
  
 

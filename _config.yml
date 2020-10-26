@@ -1,6 +1,6 @@
 # main text of home
 name: Joaquín Montesinos Muñoz
-bio: Data Science, technology geek, team sports and much more to discover
+bio: Data and technology geek
 
 # twitter summary info
 description: Data and technology geek  
@@ -35,7 +35,6 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: joakm5
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: joaquin-montesinos
@@ -51,6 +50,7 @@ medium: joaquin.montesinos
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 #email: email
+twitter: joakm5
 
 authors:
   joaquinmontesinos:
@@ -96,7 +96,7 @@ post-advance-links: [blog]
 show-author: false
 
 # do you want some animations?
-animation: true
+animation: false
 
 # add default values to specific pages or layouts
 defaults:
